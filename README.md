@@ -15,5 +15,6 @@ I'm a **Computer Science seniour student at the University of Louisiana Monroe (
 - 💼 [LinkedIn](https://www.linkedin.com/in/nishushrestha)  
 - 📧 Email: cresthaneeshu@gmail.com  
 
+---
 
 ⭐️ *Thanks for visiting my GitHub profile!*
