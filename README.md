@@ -9,7 +9,7 @@ I'm a **Computer Science seniour student at the University of Louisiana Monroe (
 ## 🚀 About Me
 - 🎓 **CS Senior Student @ ULM**  
 - 💻 **President & Founder of Girls Who Code @ ULM**  
-- 🌱 Always learning, always growing. Open to job and collaboration opportunities in tech!
+- 🌱 **Always learning, always growing. Open to job and collaboration opportunities in tech!**
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nishushrestha)  
